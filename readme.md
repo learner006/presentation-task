@@ -14,7 +14,7 @@ Hope I will deliver it on-time! ;-)
 
 I would also like to say about grabbers I created during the studying in RSS. They allow me to save time significantly for becoming a some sort of proficiency in JS. First of all I mean the Ilya Kantor's website code grabber which downloaded all the code for chapters and generated a '4-level' table of contents.
 
-+ An article with gently Github intro is waiting to publish.
+\+ An article with gently Github intro is waiting to publish.
 
 
 Stay tuned!
